@@ -4,13 +4,22 @@
     "keywords": ["php", "html", "dom", "extractelement"],
     "homepage": "https://github.com/nanaksr/table-extractor",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nanak Suryana",
+            "email": "nanak.surya89@gmail.com"
+        }
+    ]
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.0"
+    },
     "autoload": {
         "psr-4": {
-            "nanaksr\\": "src"
+            "nanaksr\\table-extractor\\": "src"
         }
-    },
-    "require": {
-        "php": "^5.3.3 || ^7.0"
     }
 }
