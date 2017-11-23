@@ -13,7 +13,7 @@ namespace nanaksr;
         This script is licensed under the Creative Commons License.
     ----------------------------------------------------------------------*/
  
-    class htmlextractor {
+    class tableextractor {
     
         var $source            = NULL;
         var $anchor            = NULL;
