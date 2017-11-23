@@ -1,5 +1,5 @@
 <?php
-namespace nanaksr;
+namespace nanaksr\htmlextractor;
   /*----------------------------------------------------------------------
         Table Extractor
         ===============
