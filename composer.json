@@ -5,7 +5,7 @@
     "homepage": "https://github.com/nanaksr/table-extractor",
     "license": "MIT",
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "nanaksr\\": "src"
