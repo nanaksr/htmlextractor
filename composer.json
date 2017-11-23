@@ -10,7 +10,7 @@
             "name": "Nanak Suryana",
             "email": "nanak.surya89@gmail.com"
         }
-    ]
+    ],
     "require": {
         "php": ">=5.5.0"
     },
