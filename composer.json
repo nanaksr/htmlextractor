@@ -4,6 +4,8 @@
     "keywords": ["slim", "pdo", "database"],
     "homepage": "https://github.com/nanaksr/table-extractor",
     "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true
     "autoload": {
         "psr-4": {
             "nanaksr\\": "src"
