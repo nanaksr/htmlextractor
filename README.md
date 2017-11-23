@@ -4,7 +4,7 @@ PHP - HTML Table Extractor
 ## Installation
 Via composer:
 ```
-composer require nanaksr/htmlextractor
+composer require nanaksr/htmlextractor @dev
 ```
 ## Quick Start and Example
 ```
