@@ -1,0 +1,15 @@
+{
+    "name": "nanaksr/tableExtractor",
+    "description": "PHP - HTML Table Extractor",
+    "keywords": ["slim", "pdo", "database"],
+    "homepage": "https://github.com/nanaksr/tableExtractor",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "nanaksr\\": "src"
+        }
+    },
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
