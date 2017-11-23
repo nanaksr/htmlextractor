@@ -1,8 +1,8 @@
 {
-    "name": "nanaksr/table-extractor",
+    "name": "nanaksr/htmlextractor",
     "description": "PHP - HTML Table Extractor",
     "keywords": ["php", "html", "dom", "extractelement"],
-    "homepage": "https://github.com/nanaksr/table-extractor",
+    "homepage": "https://github.com/nanaksr/htmlextractor",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -15,6 +15,8 @@
         "php": ">=5.3.0"
     },
     "autoload": {
-        "psr-4": {"nanaksr\\table-extractor\\": "src/"}
+        "psr-4": {
+            "nanaksr\\htmlextractor\\": "src/"
+        }
     }
 }
